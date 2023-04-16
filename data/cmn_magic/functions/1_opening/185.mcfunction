@@ -1,0 +1,1 @@
+tag @e[tag=witch,tag=controller] add running

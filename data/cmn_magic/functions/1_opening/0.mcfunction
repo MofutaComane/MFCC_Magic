@@ -1,0 +1,1 @@
+data modify storage cmn_magic: scene set value 1_opening

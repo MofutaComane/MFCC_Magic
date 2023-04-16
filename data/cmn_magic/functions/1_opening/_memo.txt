@@ -1,0 +1,11 @@
+0 start scene
+1 summon, witch start walking
+45 witch stop, playsound
+55 stopsound
+95 talk
+105 stopsound,talk again
+115 stopsound,
+155~160 witch rotation
+160,164,168,172 drink sound
+185 start running
+200 reset

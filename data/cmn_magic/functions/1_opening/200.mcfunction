@@ -1,0 +1,1 @@
+function cmn_magic:1_opening/reset
