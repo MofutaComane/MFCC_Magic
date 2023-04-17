@@ -1,0 +1,2 @@
+function cmn_magic:3_transfur/123 
+schedule function cmn_magic:3_transfur/schedule/124 1t 
