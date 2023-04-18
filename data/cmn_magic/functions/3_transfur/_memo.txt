@@ -1,0 +1,2 @@
+0 display setup, gamemode change, ride
+3 clear blindness
