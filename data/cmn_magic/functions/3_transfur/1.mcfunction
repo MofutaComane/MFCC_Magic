@@ -1,0 +1,1 @@
+execute as @p at @s rotated ~ 0 run tp @s ^ ^ ^-0.3 ~ -10

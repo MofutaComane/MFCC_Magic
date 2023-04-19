@@ -1,5 +1,6 @@
+gamemode adventure @p
 kill @e[tag=curtain]
-
+kill @e[tag=real_head]
 
 summon item_display 11.85 -0.85 10.5 {Tags:["curtain"],Rotation:[90f,180f]}
 summon item_display 12.15 -0.85 10.5 {Tags:["curtain"],Rotation:[90f,180f]}
