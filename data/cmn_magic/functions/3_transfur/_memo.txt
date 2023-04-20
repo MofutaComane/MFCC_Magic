@@ -20,3 +20,5 @@
 230-270 hands up
 280 fur left leg
 300 fur right leg
+310-319 fall down
+341 look up
