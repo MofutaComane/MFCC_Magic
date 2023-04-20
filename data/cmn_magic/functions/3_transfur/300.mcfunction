@@ -1,0 +1,1 @@
+data merge entity @e[tag=mirror_foot_right,limit=1] {block_state:{Name:"minecraft:white_wool"},transformation:{scale:[0.25f,0.245f,0.7225f],translation:[-0.005f,-0.005f,-0.005f]},start_interpolation:0,interpolation_duration:2}
