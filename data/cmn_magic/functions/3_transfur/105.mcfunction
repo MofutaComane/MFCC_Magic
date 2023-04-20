@@ -1,0 +1,1 @@
+data merge entity @e[tag=real_hand_right,tag=fur,limit=1] {transformation:{scale:[0.765f,0.19f,0.258f],translation:[-0.004f,-0.004f,-0.004f],left_rotation:{axis:[1f,0f,0f],angle:-0.5f}},block_state:{Name:"white_wool"},start_interpolation:0,interpolation_duration:6}

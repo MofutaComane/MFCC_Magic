@@ -1,2 +1,13 @@
-0 display setup, gamemode change, spectate
-3 clear blindness
+0 display setup,armor_stand ready
+5 clear blindness, gamemode change, spectate
+25-45 look back (35:absolute)[5.7 0.85 11.1][-40,-20]
+45 summon hand
+56-65 look down[-50,40]
+66-75 look down[-50,50]
+105(~111) fur right 1
+118 surprise shake head
+125(~131) fur left 1
+138 shake head
+170- go mirror
+178 kill hand
+179 summon hand
